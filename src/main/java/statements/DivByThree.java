@@ -5,11 +5,7 @@ import java.util.Scanner;
 public class DivByThree {
 
     public void divBy3(int number) {
-        if (number % 3 == 0) {
-            System.out.println("A szám osztható 3-mal maradék nélkül.");
-        } else {
-            System.out.println("A szám nem osztható 3-mal maradék nélkül.");
-        }
+        System.out.println(number % 3 == 0 ? "A szám osztható 3-mal maradék nélkül." : "A szám nem osztható 3-mal maradék nélkül.");
     }
 
     public static void main(String[] args) {
