@@ -5,35 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72038c78-f7a6-4b9c-a9bb-db1511ad98f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/3/038c687120ad4ee94cb989d5e8ab9e7bef8a6cb1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/0/20b13982bb04dc78904ac78caa512d50cbb0fcac" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2ad79e20c4f36bab0f626d94a8e6dccfe261ac60" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3df913e6b3df22f721ae2ed7d8b05a6c93758d9c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/d/4dd14064e2f90c682752071e501e5045642f66fd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/b/cb4928959adc98445e23c8dd1007b3ac1220b40f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/9/d9ab34db61e5021c5f6f3f627234e24d16d3c103" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/e/de465e6dafde5e05caf159e1f22b1d168ec754c0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f11482fc15068604411be617772b22c30a52638f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/9/f9e42cfc62856e3146bd099384e935bb03491f0d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array/ArrayHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array/ArrayMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/arrayofarrays/ArrayOfArraysMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/ArraysMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/Months.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/Weekdays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/introcontrol/BoatRental.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/introcontrol/IntroControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/introcontrol/IntroControlMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/introcontrol/UserMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/introdate/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/introdate/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stringtype/registration/Registration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stringtype/registration/UserValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/statements/DivByThree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/statements/DivByThree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arrayList/Books.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arrayList/Capsules.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/debug/numbers/NumberStatistics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -66,33 +41,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/stringtype" />
   </component>
-  <component name="RunManager" selected="Application.ArraysMain">
-    <configuration name="ArrayHandler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.ArrayHandler" />
-      <module name="training" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.ArrayMain" />
-      <module name="training" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.NumberStatistics">
     <configuration name="ArrayOfArraysMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrayofarrays.ArrayOfArraysMain" />
       <module name="training" />
@@ -119,12 +68,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BoatRental" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="introcontrol.BoatRental" />
+    <configuration name="Books" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayList.Books" />
       <module name="training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="introcontrol.*" />
+          <option name="PATTERN" value="arrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Capsules" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayList.Capsules" />
+      <module name="training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberStatistics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="debug.numbers.NumberStatistics" />
+      <module name="training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="debug.numbers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberStatistics" />
+        <item itemvalue="Application.Books" />
+        <item itemvalue="Application.Capsules" />
         <item itemvalue="Application.ArraysMain" />
         <item itemvalue="Application.ArrayOfArraysMain" />
-        <item itemvalue="Application.ArrayHandler" />
-        <item itemvalue="Application.ArrayMain" />
-        <item itemvalue="Application.BoatRental" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615110613032</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit #3">
+      <created>1615216833113</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1615216833113</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -191,6 +173,7 @@
     <MESSAGE value="commit #1" />
     <MESSAGE value="statements Investment commit" />
     <MESSAGE value="statements DivByThree commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="statements DivByThree commit" />
+    <MESSAGE value="commit #3" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit #3" />
   </component>
 </project>
