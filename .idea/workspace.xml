@@ -5,9 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72038c78-f7a6-4b9c-a9bb-db1511ad98f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/arrayList/Books.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/arrayList/Capsules.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/debug/numbers/NumberStatistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/attributes/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/attributes/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/attributes/PersonMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/finalmodifier/CircleCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/finalmodifier/Gentleman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/finalmodifier/TaxCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/math/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/math/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/math/Warrior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/math/rounding/RoundingAnomaly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/06433fb1c36a7cdcbd22c58933ca987d7048937c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/06433fb1c36a7cdcbd22c58933ca987d7048937c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/3/439ee17ddae4c07133e51e7f55b12a36b1c69404" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/3/439ee17ddae4c07133e51e7f55b12a36b1c69404" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/1/51b024fdc338d413dfa02a35487962298d02f1ad" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/1/51b024fdc338d413dfa02a35487962298d02f1ad" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/67857170c8a89c06f1e0bf6d0945f19be39558cd" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/67857170c8a89c06f1e0bf6d0945f19be39558cd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/5/b5a456e007d64667bf490c342c51157df7f57e3d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/5/b5a456e007d64667bf490c342c51157df7f57e3d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/9/c93a510f4f094dd8946dff0b732818ecdb24ae41" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/9/c93a510f4f094dd8946dff0b732818ecdb24ae41" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/9/d9968ad0b3305eca5c8b67073bb5ae9161f9fe2d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/9/d9968ad0b3305eca5c8b67073bb5ae9161f9fe2d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,20 +56,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/stringtype" />
   </component>
-  <component name="RunManager" selected="Application.NumberStatistics">
-    <configuration name="ArrayOfArraysMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrayofarrays.ArrayOfArraysMain" />
-      <module name="training" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arrayofarrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ArraysMain">
     <configuration name="ArraysMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays.ArraysMain" />
       <module name="training" />
@@ -68,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Books" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrayList.Books" />
+    <configuration name="CircleCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="finalmodifier.CircleCalculator" />
       <module name="training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrayList.*" />
+          <option name="PATTERN" value="finalmodifier.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Capsules" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrayList.Capsules" />
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="math.Game" />
       <module name="training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrayList.*" />
+          <option name="PATTERN" value="math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +96,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberStatistics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="debug.numbers.NumberStatistics" />
+    <configuration name="RoundingAnomaly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="math.rounding.RoundingAnomaly" />
       <module name="training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="debug.numbers.*" />
+          <option name="PATTERN" value="math.rounding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaxCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="finalmodifier.TaxCalculator" />
+      <module name="training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="finalmodifier.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NumberStatistics" />
-        <item itemvalue="Application.Books" />
-        <item itemvalue="Application.Capsules" />
         <item itemvalue="Application.ArraysMain" />
-        <item itemvalue="Application.ArrayOfArraysMain" />
+        <item itemvalue="Application.RoundingAnomaly" />
+        <item itemvalue="Application.Game" />
+        <item itemvalue="Application.TaxCalculator" />
+        <item itemvalue="Application.CircleCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615216833113</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit #4">
+      <created>1615220809319</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1615220809319</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -174,6 +196,7 @@
     <MESSAGE value="statements Investment commit" />
     <MESSAGE value="statements DivByThree commit" />
     <MESSAGE value="commit #3" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit #3" />
+    <MESSAGE value="commit #4" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit #4" />
   </component>
 </project>
