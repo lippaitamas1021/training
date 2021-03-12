@@ -1,6 +1,6 @@
 package introdate;
 
-public class EmployeeTest {
+public class EmployeeMain {
 
     public static void main(String[] args) {
         Employee employee = new Employee(1984,10,21, "Lippai Tamás");
