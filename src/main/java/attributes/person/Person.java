@@ -1,4 +1,4 @@
-/*package attributes;
+package attributes.person;
 
 public class Person {
 
@@ -11,11 +11,22 @@ public class Person {
         this.idCard = idCard;
     }
 
+    public String getName() {
+        return name;
+    }
+
+    public String getIdCard() {
+        return idCard;
+    }
+
+    public Address getAddress() {
+        return address;
+    }
+
     public void moveTo(Address newAddress) {
         this.address = newAddress;
     }
 
-    @Override
     public String personToString() {
         return "Person{" +
                 "name='" + name + '\'' +
@@ -23,7 +34,9 @@ public class Person {
                 ", address=" + address +
                 '}';
     }
+
+    public void correctData(String name, String idCard) {
+        this.name = name;
+        this.idCard = idCard;
+    }
 }
-
-
- */
