@@ -1,7 +1,7 @@
 package numbers;
 
 import java.util.Scanner;
-    
+
 public class CircleMain {
 
     public static void main(String[] args) {
