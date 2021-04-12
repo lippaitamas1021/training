@@ -24,4 +24,12 @@ public class Comment {
     public LocalDateTime getTime() {
         return time;
     }
+
+    public void setText(String text) {
+        this.text = text;
+    }
+
+    public void setTime(LocalDateTime time) {
+        this.time = time;
+    }
 }
