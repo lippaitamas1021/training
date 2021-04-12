@@ -13,11 +13,10 @@ public class JobDispatcher {
         return result;
     }
 
-
-    public Job dispatchNextJob(Queue<Job> availableJobs) throws NoJobException {
-        if (availableJobs.isEmpty()) {
+    public Job dispatchNextJob(Queue<Job> jobs) throws NoJobException {
+        if (jobs.isEmpty()) {
             throw new NoJobException("No available job");
         }
-        return availableJobs.peek();
+        return jobs.poll();
     }
 }
